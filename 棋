@@ -1,0 +1,4 @@
+var qip an=document.getelementbyid ("qipan");
+varmycanvas=documcnt.getelementbyid('mycanvas');
+var context = mycanvas.getcontext ('2d');
+context.drawimage(qipan, 0, 0);
